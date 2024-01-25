@@ -1,0 +1,9 @@
+.AP{
+	-fx-text-fill: rgb(255, 128, 0);
+}	
+.T {
+	-fx-background-color: rgb(0, 128, 0);
+}
+.G {
+	-fx-background-color: rgb(255, 0, 128);
+}

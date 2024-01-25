@@ -1,0 +1,9 @@
+.p {
+	-fx-background-color: rgb(0, 128, 0);
+}
+.label {
+	-fx-font-size: 30px;
+}
+.punti {
+	-fx-font-size: 55px;
+}
