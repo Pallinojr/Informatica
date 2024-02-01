@@ -54,7 +54,7 @@ public class AvantiIndietro extends Application{
 	}
 	private void aggiornaTimer(){
 		
-		if(n==300){
+		if(n==300){//pollo
 			des=false;
 		}
 		if(n==0){

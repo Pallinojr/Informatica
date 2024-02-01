@@ -20,6 +20,7 @@ public class Avanti extends Application{
 	int n=0;
 	Timeline timeline;
 	Pane quadro = new Pane();
+	//ahahahahahahahahaha
 
 	public void start(Stage finestra) throws Exception {
 		GridPane griglia = new GridPane();
@@ -47,7 +48,7 @@ public class Avanti extends Application{
 		timeline.setCycleCount(Timeline.INDEFINITE);
 
 		pStart.setOnAction(e -> muoviti());
-	}
+	}//daje
 	private void muoviti(){
 		timeline.play();
 	}
